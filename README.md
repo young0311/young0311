@@ -16,7 +16,7 @@
 - (2026.01 ~ ) **LIKELION Univ 14th** – Backend Operations / PL
 - (2026.03 ~ 04) **SWYP App 4th** – Backend Developer
 - (2026.06 ~ 09) **Programmers DevCourse 7th** – Advanced Track
-- 
+
 ### 🔨 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
@@ -26,9 +26,9 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 <br>
+### 📞 Contact
+  <a href="mailto:yeong20311@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeong20311@gmail.com"/></a>  
 
-<img src="https://render.gitanimals.org/lines/sanchaehwa?pet-id=1" height="160px" width="160px"/>
-  <br/>
-  <a href="mailto:yeong20311@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeong20311@gmail.com"/></a>
-</div>
-  
+
+<img src="https://render.gitanimals.org/lines/sanchaehwa?pet-id=1" height="210px" width="210ㅔx"/>
+
