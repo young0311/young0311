@@ -26,8 +26,6 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 <br>
-### 📞 Contact
-  <a href="mailto:yeong20311@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeong20311@gmail.com"/></a>  
 
 
 <img src="https://render.gitanimals.org/lines/sanchaehwa?pet-id=1" height="210px" width="210ㅔx"/>
