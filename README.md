@@ -1,32 +1,178 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=3c94e0&size=30&center=false&vCenter=false&width=404&height=53&lines=%E3%80%80%E3%80%80Hello+HwaYoung's+Github+%E3%80%80%E3%80%80">
-
-### 👩🏻‍💻 About me
-사용자의 문제를 해결하고 더 나은 가치를 제공하는 개발을 지향합니다. 새로운 기술과 도메인도 두려워하지 않고 직접 부딪혀 해결하며, 성능과 안정성, 코드 품질을 지속적으로 개선하는 과정에 흥미를 가지고 있습니다.
-
-### 📂 Project
-- (2025.06 ~ 08) **GreenWinit** – Server (Seoul Donghaeng Project)
-- (2025.12 ~ 26.01 ) **Neurous** – Server (SWYP App 3rd)
-- (2026.02 ~ 03) **Startup Oncognier** – Server Refactoring
-- (2026.03 ~ 04) **Jjanpot** – Server (SWYP App 4th)
-- (2026.06 ~ ) **Framey** – Server / TL
-
-### 🐥 Experience
-- (2023.01 ~ 12) **LIKELION Univ 11th** – Lead
-- (2025.12 ~ 26.01) **SWYP App 3rd** – Backend Developer
-- (2026.01 ~ ) **LIKELION Univ 14th** – Backend Operations / PL
-- (2026.03 ~ 04) **SWYP App 4th** – Backend Developer
-- (2026.06 ~ 09) **Programmers DevCourse 7th** – Advanced Track
-
-### 🔨 Tech Stack
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-<br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-<br>
+<div align=center>
+  <h3>Hi there </h3>
+  I'm Hwayoung Yang 🦔
+  <br><br>
+</div>
 
 
-<img src="https://render.gitanimals.org/lines/sanchaehwa?pet-id=1" height="210px" width="210ㅔx"/>
+### Activity · Project
+<ul>
+  <!-- SWYP -->
+    <details>
+      <summary>
+        <a href="https://swyp.im/">SWYP</a> App 3rd, 4th 서버 파트
+      </summary>
+      <br>
+      <table>
+        <thead>
+          <tr>
+            <th>Project</th>
+            <th>Description</th>
+            <th>Date</th>
+            <th>Part</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="https://teamswyg.notion.site/2ee20241cf7f800bb193e7900454ebd1">Neurous</a></td>
+            <td> 글 읽기와 퀴즈, 보상을 통해 문해력 성장을 돕는 학습 플랫폼 서버 개발 </td>
+            <td>2025.12 ~ 2026.01</td>
+            <td>Server (App 3rd)</td>
+          </tr>
+          <tr>
+            <td> <a href="https://teamswyg.notion.site/JJANPOT-34820241cf7f8080bc21f57c8ce8e9a6">Jjanpot</a> </td>
+            <td> 친구와 함께 절약 챌린지에 도전하고 절약을 돕는 플랫폼 서버 개발 </td>
+            <td>2026.03 ~ 2026.04</td>
+            <td>Server (App 4th)</td>
+          </tr>
+        </tbody>
+      </table>
+    </details>
+  <!-- DevCourse -->
+    <details>
+      <summary>
+          프로그래머스 백엔드 단기심화 데브코스 7기      
+      </summary>
+      <br>
+      <table>
+        <thead>
+          <tr>
+            <th>Project</th>
+            <th>Description</th>
+            <th>Date</th>
+            <th>Part</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="https://github.com/prgrms-be-adv-devcourse/beadv7_7_GrafanaOn_BE"> D:EAR </a> </td>
+            <td> 상품의 가치를 전달하고, 그 가치를 중심으로 거래가 이루어지는 한정판 거래 플랫폼 서버 개발 </td>
+            <td>2026.07 ~ 09.01</td>
+            <td>Server</td>
+          </tr>
+        </tbody>
+      </table>
+    </details>
+   <!-- GANZITHON · ARI-THON -->
+    <details>
+      <summary>
+        2026 LIKELIONUNIV : GANZITHON · ARI-THON
+      </summary>
+      <br>
+      <table>
+        <thead>
+          <tr>
+            <th>Project / Activity</th>
+            <th>Description</th>
+            <th>Date</th>
+            <th>Part</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td> 간지톤/아리톤 운영위 참여 </td>
+            <td> 14기 멋쟁이사자처럼 대학 11개교 · 30개 팀이 함께하는 연합 해커톤 간지톤/아리톤 기획 및 운영 </td>
+            <td> ~ 2026.11.21 </td>
+            <td> 기획부</td>
+          </tr>
+          <tr>
+            <td> <a href="https://github.com/Ganzi-Thon-Makers/2026-GanziThon-Server"> - </a> </td>
+            <td> GANZITHON · ARI-THON 공식 웹 사이트 서버 개발</td>
+            <td>2026.10.26 ~ ING</td>
+            <td>Server</td>
+          </tr>
+        </tbody>
+      </table>
+    </details>
+    <!-- My Side Project -->
+    <details>
+      <summary>
+        Side Project
+      </summary>
+      <br>
+      <table>
+        <thead>
+          <tr>
+            <th>Project</th>
+            <th>Description</th>
+            <th>Date</th>
+            <th>Part</th>
+          </tr>
+        </thead>
+        <tbody>
+           <tr>
+            <td><a href="https://github.com/WELKIT/WELKIT-Backend"> Welkit</a></td>
+            <td>신입사원 맞춤 온보딩 플랫폼 기획 및 서버 개발</td>
+            <td>2025.08 ~ 10 </td>
+            <td> PM / Server</td>
+          </tr>
+          <tr>
+            <td>Greenwinit</td>
+            <td>서울 동행 기획 환경챌린지 플랫폼 서버 개발</td>
+            <td>2025.06 ~ 08 </td>
+            <td>Server</td>
+          </tr>
+          <tr>
+            <td> <a href="https://github.com/Team-Framey/Framey-Server">Framey</a></td>
+            <td> 사진 자동 프레임 배치 및 스타일 적용 기반 콜라주 생성 플랫폼 서버 개발 </td>
+            <td> 2026.06 ~ ING</td>
+            <td> Server Lead</td>
+          </tr>
+        </tbody>
+      </table>
+    </details>
+  <li>
+    대학생 IT 연합동아리 <a href="https://likelion.university">멋쟁이사자처럼 대학</a> 11기 교내 대표, 14기 백엔드 운영진
+  </li>
+  <li>
+    스타트업 온코그니어 서버 리팩토링 참여 [2026.02 ~ 2026.03]
+  </li>
+</ul>
+
+### Tech Stack
+<details>
+  <summary> Main Stack </summary>
+  <br>
+    ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+    ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)    
+    <br>
+    ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+    ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+    ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+    ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+</details>
+<details>
+  <summary>Sub Stack </summary>
+  <br>
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  <br>
+  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
+  ![k6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
+</details>
+
+<div>
+  <br/>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=young0311&layout=compact&hide=issues" alt="Git Prim stats" height="160px" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=young0311" alt="Git stats" height="160px" />
+  </a>
+  <img src="https://render.gitanimals.org/lines/young0311?pet-id=1" height="140px" width="140px"/>
+  <br/>
+</div>
 
