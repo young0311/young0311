@@ -26,13 +26,13 @@
             <td><a href="https://teamswyg.notion.site/2ee20241cf7f800bb193e7900454ebd1">Neurous</a></td>
             <td> 글 읽기와 퀴즈, 보상을 통해 문해력 성장을 돕는 학습 플랫폼 서버 개발 </td>
             <td>2025.12 ~ 2026.01</td>
-            <td>Server (App 3rd)</td>
+            <td> Backend Developer (App 3rd)</td>
           </tr>
           <tr>
             <td> <a href="https://teamswyg.notion.site/JJANPOT-34820241cf7f8080bc21f57c8ce8e9a6">Jjanpot</a> </td>
             <td> 친구와 함께 절약 챌린지에 도전하고 절약을 돕는 플랫폼 서버 개발 </td>
             <td>2026.03 ~ 2026.04</td>
-            <td>Server (App 4th)</td>
+            <td>Backend Developer (App 4th)</td>
           </tr>
         </tbody>
       </table>
@@ -57,7 +57,7 @@
             <td><a href="https://github.com/prgrms-be-adv-devcourse/beadv7_7_GrafanaOn_BE"> D:EAR </a> </td>
             <td> 상품의 가치를 전달하고, 그 가치를 중심으로 거래가 이루어지는 한정판 거래 플랫폼 서버 개발 </td>
             <td>2026.07 ~ 09 </td>
-            <td>Server</td>
+            <td>Backend Developer</td>
           </tr>
         </tbody>
       </table>
@@ -88,7 +88,7 @@
             <td> <a href="https://github.com/Ganzi-Thon-Makers/2026-GanziThon-Server"> - </a> </td>
             <td> GANZITHON · ARI-THON 공식 웹 사이트 서버 개발</td>
             <td>2026.10.26 ~ ING</td>
-            <td>Server</td>
+            <td>Backend Developer</td>
           </tr>
         </tbody>
       </table>
@@ -113,19 +113,19 @@
             <td><a href="https://github.com/WELKIT/WELKIT-Backend"> Welkit</a></td>
             <td>신입사원 맞춤 온보딩 플랫폼 기획 및 서버 개발</td>
             <td>2025.08 ~ 10 </td>
-            <td> PM / Server</td>
+            <td> PM / Backend Developer</td>
           </tr>
           <tr>
             <td>Greenwinit</td>
             <td>서울 동행 기획 환경챌린지 플랫폼 서버 개발</td>
             <td>2025.06 ~ 08 </td>
-            <td>Server</td>
+            <td>Backend Developer</td>
           </tr>
           <tr>
             <td> <a href="https://github.com/Team-Framey/Framey-Server">Framey</a></td>
             <td> 사진 자동 프레임 배치 및 스타일 적용 기반 콜라주 생성 플랫폼 서버 개발 </td>
             <td> 2026.06 ~ ING</td>
-            <td> Server Lead</td>
+            <td> Backend Developer / Team Lead</td>
           </tr>
         </tbody>
       </table>
