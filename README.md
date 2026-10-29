@@ -134,7 +134,7 @@
     <strong> 대학생 IT 연합동아리 <a href="https://likelion.university">멋쟁이사자처럼 대학</a> 11기 교내 대표, 14기 백엔드 운영진 </strong>
   </li>
   <li>
-    <strong> 스타트업 온코그니어 서버 리팩토링 참여 [2026.02 ~ 2026.03] </strong>
+    <strong> 스타트업 서버 리팩토링 참여 [2026.02 ~ 2026.03] </strong>
   </li>
 </ul>
 <br>
