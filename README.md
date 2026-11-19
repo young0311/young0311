@@ -85,7 +85,7 @@
             <td> 기획부</td>
           </tr>
           <tr>
-            <td> <a href="https://github.com/Ganzi-Thon-Makers/2026-GanziThon-Server"> - </a> </td>
+            <td> <a href="https://github.com/Ganzi-Thon-Makers/2026-GanziThon-Server"> 양 </a> </td>
             <td> GANZITHON · ARI-THON 공식 웹 사이트 서버 개발</td>
             <td>2026.10.26 ~ ING</td>
             <td>Backend Developer</td>
@@ -173,16 +173,9 @@
   <img src="https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white" alt="k6">
 
 </details>
-
-<!-- <div>
-  <br/>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=young0311&layout=compact&hide=issues" alt="Git Prim stats" height="160px" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=young0311" alt="Git stats" height="160px" />
-  </a>
-  <img src="https://render.gitanimals.org/lines/young0311?pet-id=1" height="140px" width="140px"/>
-  <br/>
-</div> -->
-
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=young0311&layout=compact&hide=issues" alt="Top languages" height="145px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=young0311" alt="GitHub stats" height="145px" />
+  <a href="https://solved.ac/yeong20311"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeong20311" alt="Solved.ac" height="145px" /></a>
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=young0311&utm_content=line"><img src="https://render.gitanimals.org/lines/young0311?pet-id=766653899327477935" alt="Git animals" height="100px" width="100px" /></a>
+</p>
