@@ -85,7 +85,7 @@
             <td> 기획부</td>
           </tr>
           <tr>
-            <td> <a href="https://github.com/Ganzi-Thon-Makers/2026-GanziThon-Server"> 양 </a> </td>
+            <td> <a href="https://github.com/Ganzi-Thon-Makers/2026-GanziThon-Server"> 양갱즈(YANGGANGZE) </a> </td>
             <td> GANZITHON · ARI-THON 공식 웹 사이트 서버 개발</td>
             <td>2026.10.26 ~ ING</td>
             <td>Backend Developer</td>
